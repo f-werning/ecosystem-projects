@@ -3,8 +3,8 @@
   "slug": "zokyo",
   "tags": [
     "security",
-    "cybersecurity",
-    "audit"
+    "infrastructure",
+    "tools"
   ],
   "status": "live",
   "highlight": "Provide cybersecurity solutions for our clients, including code-audits, pen-testing, etc.",
