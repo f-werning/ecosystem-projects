@@ -1,0 +1,22 @@
+{
+  "name": "Zokyo",
+  "slug": "zokyo",
+  "tags": [
+    "security",
+    "cybersecurity",
+    "audit"
+  ],
+  "status": "live",
+  "highlight": "Provide cybersecurity solutions for our clients, including code-audits, pen-testing, etc.",
+  "logo": "/img/Zokyo.png",
+  "website": "https://www.zokyo.io/",
+  "twitter": "https://twitter.com/ZOKYO_io",
+  "telegram": "https://t.me/werningfacundo",
+  "github": "https://github.com/zokyo-security",
+  "discord": "",
+  "summary": "Zokyo has been involved in crypto/web3 since 2017, primarily in the cybersecurity and ventures spaces. We've proud to have provided our clients with unparalleled quality as well as personalized services tailored to their needs. We've worked with foundations, protocols, bridges, etc. our experience and range of expertise allow us to provide them with cybersecurity solutions they can trust. ",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
